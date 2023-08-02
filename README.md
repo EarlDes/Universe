@@ -1,1 +1,2 @@
 # Universe
+Universe is an interactive web project that brings the cosmos to life with a canvas-based starry night sky. The project aims to captivate users with a mesmerizing display of stars, each representing a unique celestial entity with its own name, description, and quote. As users explore the canvas, they can click on individual stars to reveal fascinating information about them in a beautifully designed modal.
